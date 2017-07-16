@@ -1,0 +1,6 @@
+S.No.	Name	Branch	Year	Result
+1.	Amar	CSE	2012	PASS
+2.	Akbar	ECE	2014	FAIL
+3.	Anthony	CSE	2014	PASS
+4.	Ambar	CCE	2013	FAIL
+5.	Aakash	ECE	2012	PASS

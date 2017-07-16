@@ -1,0 +1,55 @@
+Topic:
+0. Cloud Intro
+- SAAS (Build)
+- PAAS (Buy)
+- IAAS (Deploy)
+
+1. How To Use Cloud Services
+
+- Amazon Web Services (AWS)
+* Introduction
+* Why Need Of It?
+* Virtual Private Cloud (VPC)
+~ Subnets
+~ Gateway
+~ Route Table
+~ Security Groups
+~ Elastic IPs
+* Amazon Elastic Compute Cloud (EC2 Compute)
+* Amazon Machine Image (AMI)
+* Amazon Simple Storage Service (S3)
+* Amazon Elastic Block Storage (EBS)
+* Amazon Relational Database Service (RDS)
+* AmazonCloudWatch (Logs & Alarm)
+* Amazon Elastic Load Balancing (ELB)
+- Microsoft Azure
+- Google Cloud Platform
+
+or 2. Create Your Own Cloud Services
+- OpenStack
+* Founded by Rackspace Hosting & NASA
+* Installation (Packstack/Devstack)
+* Comparison with AWS
+* Neutron (SDN) [Elastic Virtual Switch]
+* Horizon (Dashboard)
+* Nova (Compute & Bare Metal)
+* Glance (Image)
+* Swift (Object)
+* Cinder (Block)
+* Trove (Database)
+* Keystone (Auth)
+* Ceilometer (Metering)
+* Heat - Orchestration (Describe & Automate the Deployment of Infra)
+
+
+or 3. Technology Behind Cloud Services
+- ssh -X
+- nfs
+- samba
+- iscsi
+- ovs -vsctl
+- kvm
+
+or 4. Cloud Infrastructure Today
+- Containers
+- Docker
