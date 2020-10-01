@@ -22,6 +22,29 @@ int main(){
 			}
 		}
 		cout << index+1 << endl;
+		/* Alternate approach
+		   cin>>t;
+		   while(t--)
+		   {
+		   long long n,s=0,i,m=999999999,index=0;
+		      cin>>n;
+		      long long arr[n];
+		      for(i=0;i<n;i++)
+		      {
+		         cin>>arr[i];
+			 s = s +arr[i];
+		      }
+		   }
+		   for(i=0;i<n;i++)
+		   {
+		       if((s+arr[i])>m)
+		       {
+		         m = s +arr[i];
+			 index =i;
+		       }
+		   }
+		   cout<<index<<endl;
+		*/
 		
 	}
 	return 0;
